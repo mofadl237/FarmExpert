@@ -38,9 +38,9 @@ function ScrollWindow(){
     if(window.scrollY >= window.innerHeight){
         nav.classList.add("navChangeColor");
         navLinks.classList.add("text-main");
-        up.classList.add("hide")
+        
     }else{
-        up.classList.remove("hide")
+        
 
         nav.classList.remove("navChangeColor");
         navLinks.classList.remove("text-main")

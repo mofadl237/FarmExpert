@@ -85,9 +85,6 @@ a {
   -moz-transition: 1s;
   -ms-transition: 1s;
   -o-transition: 1s;
-  visibility: visible;
-  opacity: 1;
-  display: block;
 }
 .UP i {
   line-height: 40px;
